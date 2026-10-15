@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="GitHub Trending repositories, reimagined as a visual archive." />
+    <title>Trending Atlas · GitHub Repositories</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      const savedTheme = localStorage.getItem('trending-atlas-theme');
+      if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+    </script>
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+    <header class="topbar shell">
+      <a class="brand" href="./" aria-label="Trending Atlas home"><span class="brand-mark">✦</span><span>Trending <b>Atlas</b></span></a>
+      <div class="top-actions">
+        <a href="https://github.com/trending" target="_blank" rel="noreferrer" class="github-link">GitHub Trending <span aria-hidden="true">↗</span></a>
+        <button id="theme-toggle" class="icon-button" type="button" aria-label="다크 모드 전환"><span class="sun">☼</span><span class="moon">☾</span></button>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow"><span class="live-dot"></span> CURATED FROM GITHUB</p>
+          <h1>오늘 뜨는 오픈소스,<br /><em>한 장의 지도처럼.</em></h1>
+          <p class="intro">GitHub Trending 리포지토리를 더 넓게, 더 빠르게 살펴보세요. 매일 수집한 기록도 그대로 남습니다.</p>
+        </div>
+        <div class="hero-status" aria-live="polite">
+          <span>LAST COLLECTED</span>
+          <strong id="generated-at">Loading…</strong>
+          <small id="repo-count">— repositories</small>
+        </div>
+      </section>
+
+      <section class="control-panel" aria-label="Trending controls">
+        <div class="period-tabs" role="tablist" aria-label="기간 선택">
+          <button class="period-tab active" type="button" role="tab" data-period="daily">Daily<span>오늘</span></button>
+          <button class="period-tab" type="button" role="tab" data-period="weekly">Weekly<span>이번 주</span></button>
+          <button class="period-tab" type="button" role="tab" data-period="monthly">Monthly<span>이번 달</span></button>
+        </div>
+        <div class="filters">
+          <label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="이름, 설명, 언어 검색" autocomplete="off" /></label>
+          <select id="language-filter" aria-label="언어 필터"><option value="">All languages</option></select>
+          <select id="sort-by" aria-label="정렬 방식">
+            <option value="trending">Trending 증가량</option>
+            <option value="stars">Stars 많은 순</option>
+            <option value="forks">Forks 많은 순</option>
+            <option value="updated">최근 업데이트 순</option>
+          </select>
+          <select id="history-select" aria-label="스냅샷 선택"><option value="current">최신 수집본</option></select>
+        </div>
+      </section>
+
+      <section class="section-heading">
+        <div><p id="period-kicker" class="eyebrow">DAILY PULSE</p><h2 id="section-title">오늘의 리포지토리</h2></div>
+        <p id="result-summary" class="result-summary">불러오는 중…</p>
+      </section>
+
+      <section id="repo-grid" class="repo-grid" aria-live="polite"></section>
+      <div id="empty-state" class="empty-state" hidden><span>⌁</span><h3>조건에 맞는 리포지토리가 없어요.</h3><p>검색어나 필터를 조금 바꿔보세요.</p></div>
+    </main>
+
+    <footer class="shell footer"><span>Trending Atlas</span><span>GitHub Trending의 비공식 시각화 · 데이터는 매일 보관됩니다.</span></footer>
+    <template id="repo-card-template">
+      <article class="repo-card">
+        <a class="thumbnail-link" target="_blank" rel="noreferrer"><img class="thumbnail" alt="" loading="lazy" /><div class="thumbnail-fallback"><img alt="" /></div><span class="rank"></span><span class="visit">Repository ↗</span></a>
+        <div class="card-body">
+          <div class="repo-heading"><div><a class="repo-name" target="_blank" rel="noreferrer"></a><p class="owner"></p></div><span class="language"></span></div>
+          <div class="description-wrap"><p class="description"></p><button class="translation-toggle" type="button">한국어 보기</button></div>
+          <div class="stats"><div><span class="stat-label">STARS</span><strong class="stars"></strong></div><div><span class="stat-label">FORKS</span><strong class="forks"></strong></div><div><span class="stat-label">TRENDING</span><strong class="trending"></strong></div></div>
+          <div class="card-footer"><span class="repo-id"></span><time class="updated"></time></div>
+        </div>
+      </article>
+    </template>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

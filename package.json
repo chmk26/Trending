@@ -1,0 +1,11 @@
+{
+  "name": "github-trending-dashboard",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:trending": "node scripts/fetch-trending.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
