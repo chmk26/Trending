@@ -59,5 +59,9 @@
   "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.": "오픈 소스 드라이버, OS 간 샌드박스 및 교육, 평가 및 데이터 생성을 위한 벤치마크를 사용하여 컴퓨터 사용 2.0을 확장합니다.",
   "Video restoration tool": "동영상 복원 도구",
   "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.": "로드맵과 Colab 노트북을 사용하여 대용량 언어 모델 (LLM) 을 학습하는 과정입니다.",
-  "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.": "그래프/노드 인터페이스가 있는 가장 강력하고 모듈식 확산 모델 GUI, api 및 백엔드. 세계에서 가장 빠른 로컬 추론 엔진."
+  "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.": "그래프/노드 인터페이스가 있는 가장 강력하고 모듈식 확산 모델 GUI, api 및 백엔드. 세계에서 가장 빠른 로컬 추론 엔진.",
+  "Kronos: A Foundation Model for the Language of Financial Markets": "크로노스: 금융 시장의 언어를 위한 기초 모델",
+  "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.": "LLM에 도달하기 전에 도구 출력, 로그, 파일 및 헝겊 청크를 압축합니다. 코딩 에이전트의 토큰은 20%, JSON의 토큰은 60-95% 감소하며 동일한 답변입니다. 라이브러리, 프록시, MCP 서버.",
+  "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分": "DeepSeek 하네스 破甲：让所有模型都能破甲 ，不同模型可换不同提示词 ； 모든 모델에 대한默认提示词面向国模「小码酱」。 탈옥 — 모델당 스왑 프롬프트. 求 별 收藏 ⭐ 如要二开，请查看署名要求部分",
+  "The design language that makes your AI harness better at design.": "AI를 더 잘 활용할 수 있는 디자인 언어입니다."
 }
