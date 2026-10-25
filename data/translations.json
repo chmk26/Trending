@@ -81,5 +81,12 @@
   "Node.js JavaScript runtime ✨🐢🚀✨": "Node.js 자바스크립트 런타임 ✨🐢🚀✨",
   "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning": "VoxCPM2: 다국어 음성 생성, 창의적인 음성 디자인 및 실제 복제용 Tokenizer-Free TTS",
   "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.": "claude-red는 Claude 기술 시스템을 위해 설계된 공격 보안 기술 라이브러리입니다. 각 스킬은 SQLi에서 셸코드, EDR 회피에 이르기까지 특정 공격 표면에 대한 전문가 수준의 방법론으로 Claude를 프라이밍하는 구조화된 SKILL.md 파일입니다.",
-  "Open-source Grok Bot alternative. Choose your own model and sandbox.": "오픈 소스 Grok Bot 대안. 자신만의 모델과 샌드박스를 선택하세요."
+  "Open-source Grok Bot alternative. Choose your own model and sandbox.": "오픈 소스 Grok Bot 대안. 자신만의 모델과 샌드박스를 선택하세요.",
+  "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍 ，这里都能满足你的需求。 该库涵盖了帆书app (原樊登读书)、微信读书、京东读书、喜马拉雅等读书 app的大部分电子书。",
+  "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。": "고려해 보십시오. 즉시 작동하는 오픈 소스 AI 에이전트 ·想到,就能做到。开源、开箱即用的 AI 에이전트。",
+  "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.": "Claude Code, Cursor 및 Codex에 대한 Anti-AI-slop 설계 기술.",
+  "A Tiny biped duck robot 🦆": "작은 이족 오리 로봇 🦆",
+  "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS": "AWS에서 지원하는 공식 MCP 서버, 기술 및 플러그인을 통해 AI 에이전트가 AWS를 기반으로 구축할 수 있도록 지원",
+  "An open-source AI agent that brings the power of Gemini directly into your terminal.": "Gemini의 강력한 기능을 터미널로 직접 가져오는 오픈 소스 AI 에이전트입니다.",
+  "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.": "상담원의 업무를 파악할 수 있는 터미널 창 관리자입니다. 타일링 창, 작업 공간, 재시작 후에도 지속되는 세션, 모든 코딩 에이전트에 대한 하나의 받은 편지함. tuios.dev 및 이 저장소에서만 공식입니다. tuios에는 X/Twitter 계정이 없습니다."
 }
