@@ -111,5 +111,9 @@
   "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages": "코딩 에이전트에게 취향을 부여하는 에이전트 스킬: 아트 디렉션, 참조 이미지 및 일반적인 AI 페이지 대신 브라우저 확인",
   "Open-source Grok Bot alternative with a virtual machine that bots can use": "봇이 사용할 수 있는 가상 머신이 있는 오픈 소스 Grok Bot 대안",
   "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.": "Claude Code를 풀 게임 개발 스튜디오로 전환하세요. 49명의 AI 에이전트, 72개의 워크플로 기술, 실제 스튜디오 계층 구조를 미러링하는 완벽한 조정 시스템입니다.",
-  "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.": "브라우저, 파일 및 도구와 같은 각자의 컴퓨터를 얻는 오픈 소스 AI 동료는 모든 작업이 발생하기 전에 결정되고 이후에 기록됩니다. AG-UI 상담원을 데려오세요."
+  "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.": "브라우저, 파일 및 도구와 같은 각자의 컴퓨터를 얻는 오픈 소스 AI 동료는 모든 작업이 발생하기 전에 결정되고 이후에 기록됩니다. AG-UI 상담원을 데려오세요.",
+  "Public repository for Agent Skills": "상담원 스킬 공개 저장소",
+  "Lightpanda: the headless browser designed for AI and automation": "Lightpanda: AI 및 자동화를 위해 설계된 헤드리스 브라우저",
+  "The open agent skills tool - npx skills": "오픈 에이전트 기술 도구 - npx 기술",
+  "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.": "클로드 코드 (Claude Code), 코덱스 (Codex), 파이 (Pi) 의 에이전트 네트워크 구축: 역할, 공유된 컨텍스트 및 소유한 업무가 있는 끈질긴 팀."
 }
