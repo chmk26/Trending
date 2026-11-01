@@ -115,5 +115,10 @@
   "Public repository for Agent Skills": "상담원 스킬 공개 저장소",
   "Lightpanda: the headless browser designed for AI and automation": "Lightpanda: AI 및 자동화를 위해 설계된 헤드리스 브라우저",
   "The open agent skills tool - npx skills": "오픈 에이전트 기술 도구 - npx 기술",
-  "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.": "클로드 코드 (Claude Code), 코덱스 (Codex), 파이 (Pi) 의 에이전트 네트워크 구축: 역할, 공유된 컨텍스트 및 소유한 업무가 있는 끈질긴 팀."
+  "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.": "클로드 코드 (Claude Code), 코덱스 (Codex), 파이 (Pi) 의 에이전트 네트워크 구축: 역할, 공유된 컨텍스트 및 소유한 업무가 있는 끈질긴 팀.",
+  "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps 면접 질문",
+  "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click": "멀티 에이전트 대화형 강의실 열기 — 단 한 번의 클릭으로 몰입감 있는 멀티 에이전트 학습 경험 제공",
+  "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.": "Orkas는 데스크톱을 위한 오픈 소스 (MIT), 로컬 최초의 AI 팀입니다. 사령관은 목표를 할 일로 전환하고 프로젝트, 예약 자동화 및 커넥터와 함께 16개의 기본 제공 전문가 에이전트와 Claude Code, Codex, OpenCode, OpenClaw 및 Hermes를 조정합니다. macOS 및 Windows용 무료 앱, 내장 모델 또는 자체 키.",
+  "Free and open-source macOS menu bar toolkit.": "무료 오픈 소스 macOS 메뉴 모음 툴킷.",
+  "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨": "많은 IM 플랫폼, LLM, 플러그인 및 AI 기능을 통합하고 openclaw 대안이 될 수 있는 AI 에이전트 어시스턴트 및 개발 프레임워크. ✨"
 }
