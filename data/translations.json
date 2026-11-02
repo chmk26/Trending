@@ -120,5 +120,14 @@
   "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click": "멀티 에이전트 대화형 강의실 열기 — 단 한 번의 클릭으로 몰입감 있는 멀티 에이전트 학습 경험 제공",
   "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.": "Orkas는 데스크톱을 위한 오픈 소스 (MIT), 로컬 최초의 AI 팀입니다. 사령관은 목표를 할 일로 전환하고 프로젝트, 예약 자동화 및 커넥터와 함께 16개의 기본 제공 전문가 에이전트와 Claude Code, Codex, OpenCode, OpenClaw 및 Hermes를 조정합니다. macOS 및 Windows용 무료 앱, 내장 모델 또는 자체 키.",
   "Free and open-source macOS menu bar toolkit.": "무료 오픈 소스 macOS 메뉴 모음 툴킷.",
-  "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨": "많은 IM 플랫폼, LLM, 플러그인 및 AI 기능을 통합하고 openclaw 대안이 될 수 있는 AI 에이전트 어시스턴트 및 개발 프레임워크. ✨"
+  "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨": "많은 IM 플랫폼, LLM, 플러그인 및 AI 기능을 통합하고 openclaw 대안이 될 수 있는 AI 에이전트 어시스턴트 및 개발 프레임워크. ✨",
+  "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.": "FreeToken은 데스크톱에 데이터 센터 규모 모델을 제공합니다. 대규모 모델을 로컬에서 빠르고 효율적으로 실행합니다.",
+  "Local voice dictation for mac, windows and linux": "Mac, Windows 및 Linux용 로컬 음성 받아쓰기",
+  "🐍 Geometric Computer Vision Library for Spatial AI": "공간 AI를 위한 🐍 기하학적 컴퓨터 비전 라이브러리",
+  "A collective list of free APIs": "무료 API의 집합 목록",
+  "A free, open source, and extensible speech-to-text application that works completely offline.": "완전히 오프라인에서 작동하는 무료, 오픈 소스 및 확장 가능한 음성 텍스트 응용 프로그램입니다.",
+  "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.": "LLM, RAG 및 실제 AI 에이전트 애플리케이션에 대한 심층 튜토리얼.",
+  "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.": "오픈 소스 AI 보안 운영 센터: 경보 융합, LLM 에이전트 분류, MITRE ATT&CK 조사 및 모든 상담원 단계에 대한 재생 가능한 의사 결정 원장. 자체 호스팅 가능, API 키 없이 실행, MIT 라이선스. Claude, Cursor 및 Continue용 MCP 서버를 제공합니다.",
+  "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.": "Hyprland는 외관을 희생하지 않는 독립적이고 고도로 사용자 정의 가능한 동적 타일링 Wayland 컴포지터입니다.",
+  "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.": "👻 Ghostty는 플랫폼 네이티브 UI 및 GPU 가속을 사용하는 빠르고 풍부한 기능을 갖춘 크로스 플랫폼 터미널 에뮬레이터입니다."
 }
