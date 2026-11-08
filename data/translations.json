@@ -168,5 +168,10 @@
   "An extremely fast Python linter and code formatter, written in Rust.": "Rust로 작성된 매우 빠른 Python linter 및 코드 포맷터입니다.",
   "Distributed reliable key-value store for the most critical data of a distributed system": "분산 시스템의 가장 중요한 데이터에 대한 신뢰할 수 있는 키-값 저장소 분산",
   "A new type of shell": "새로운 유형의 쉘",
-  "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.": "생각의 속도로 코드 작성 – Zed는 Atom 및 Tree-sitter 제작자의 고성능 멀티플레이어 코드 편집기입니다."
+  "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.": "생각의 속도로 코드 작성 – Zed는 Atom 및 Tree-sitter 제작자의 고성능 멀티플레이어 코드 편집기입니다.",
+  "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.": "NVIDIA Kubernetes Engine (NVKE). 베어 메탈의 GPU Kubernetes용 관리 플레인입니다.",
+  "A utility-first CSS framework for rapid UI development.": "신속한 UI 개발을 위한 유틸리티 우선 CSS 프레임워크.",
+  "An open source design system that's fully customizable and agent ready": "완전히 사용자 정의할 수 있고 에이전트가 준비된 오픈 소스 디자인 시스템",
+  "Hunt down social media accounts by username across social networks": "소셜 네트워크에서 사용자 이름으로 소셜 미디어 계정 찾기",
+  "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.": "클라우드 계정 없이 홈 네트워크를 통해 홈 어시스턴트에서 삼성 기기를 제어하세요."
 }
