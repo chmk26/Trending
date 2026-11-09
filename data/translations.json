@@ -173,5 +173,8 @@
   "A utility-first CSS framework for rapid UI development.": "신속한 UI 개발을 위한 유틸리티 우선 CSS 프레임워크.",
   "An open source design system that's fully customizable and agent ready": "완전히 사용자 정의할 수 있고 에이전트가 준비된 오픈 소스 디자인 시스템",
   "Hunt down social media accounts by username across social networks": "소셜 네트워크에서 사용자 이름으로 소셜 미디어 계정 찾기",
-  "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.": "클라우드 계정 없이 홈 네트워크를 통해 홈 어시스턴트에서 삼성 기기를 제어하세요."
+  "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.": "클라우드 계정 없이 홈 네트워크를 통해 홈 어시스턴트에서 삼성 기기를 제어하세요.",
+  "Multi-Joint dynamics with Contact. A general purpose physics simulator.": "접촉이 있는 다중 조인트 역학. 범용 물리 시뮬레이터.",
+  "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API": "개발자가 Claude API를 사용하여 배포 가능한 애플리케이션을 신속하게 구축할 수 있도록 설계된 프로젝트 모음",
+  "Agent skill that removes signs of AI-generated writing from text": "텍스트에서 AI가 생성한 글의 흔적을 제거하는 상담원 기술"
 }
