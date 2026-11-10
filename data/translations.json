@@ -176,5 +176,8 @@
   "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.": "클라우드 계정 없이 홈 네트워크를 통해 홈 어시스턴트에서 삼성 기기를 제어하세요.",
   "Multi-Joint dynamics with Contact. A general purpose physics simulator.": "접촉이 있는 다중 조인트 역학. 범용 물리 시뮬레이터.",
   "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API": "개발자가 Claude API를 사용하여 배포 가능한 애플리케이션을 신속하게 구축할 수 있도록 설계된 프로젝트 모음",
-  "Agent skill that removes signs of AI-generated writing from text": "텍스트에서 AI가 생성한 글의 흔적을 제거하는 상담원 기술"
+  "Agent skill that removes signs of AI-generated writing from text": "텍스트에서 AI가 생성한 글의 흔적을 제거하는 상담원 기술",
+  "Garry's Opinionated OpenClaw/Hermes Agent Brain": "번역을 준비하지 못했습니다.",
+  "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.": "Claude, ChatGPT 및 기타 AI 어시스턴트를 사용하여 홈 어시스턴트를 구성하고 자동화합니다.",
+  "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送 ， 다중支持零成本定时运行。 소스 시장 데이터 ， 실시간 뉴스 ， 의사 결정 대시보드 ， 자동 알림 및 비용 부담 없는 예약 실행을 갖춘 LLM 기반 다중 시장 주식 분석 시스템."
 }
