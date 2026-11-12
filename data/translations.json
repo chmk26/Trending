@@ -181,5 +181,9 @@
   "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.": "Claude, ChatGPT 및 기타 AI 어시스턴트를 사용하여 홈 어시스턴트를 구성하고 자동화합니다.",
   "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送 ， 다중支持零成本定时运行。 소스 시장 데이터 ， 실시간 뉴스 ， 의사 결정 대시보드 ， 자동 알림 및 비용 부담 없는 예약 실행을 갖춘 LLM 기반 다중 시장 주식 분석 시스템.",
   "A batteries-included framework for building web apps": "웹 앱 구축을 위한 배터리 포함 프레임워크",
-  "The personal finance app for everyone (by everyone)": "모두를 위한 개인 금융 앱 (누구나 이용 가능)"
+  "The personal finance app for everyone (by everyone)": "모두를 위한 개인 금융 앱 (누구나 이용 가능)",
+  "All Algorithms implemented in Java": "Java로 구현된 모든 알고리즘",
+  "Use your most capable model to audit your codebase and write plans for cheaper models to execute.": "가장 성능이 뛰어난 모델을 사용하여 코드베이스를 감사하고 저렴한 모델이 실행할 계획을 작성하세요.",
+  "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security": "보안 취약점을 찾고, 검증하고, 수정하기 위한 OpenAI의 Codex Security CLI 및 TypeScript SDK. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "the runtime your coding agents live on": "코딩 에이전트가 실행되는 런타임"
 }
